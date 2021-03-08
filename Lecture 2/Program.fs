@@ -14,7 +14,7 @@ let main argv =
     printfn "Add 3 to 3 = %d" r2
 
     let twice f x = f ( f x )
-    let succ = (+) 1
+    let succ x = x + 1
     let r3 = twice twice twice succ 0
     printfn "Twice twice SUCC 0 = %d" r3
 
