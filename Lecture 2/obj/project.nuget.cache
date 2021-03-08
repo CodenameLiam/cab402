@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lRV1QpPBCDbHt66y5vp5xmmYjz2gMtUp8VwRxYsRlZvyHAxgeugTEZkILRSTSpTdG96a6szRcokprXH4ruZAZQ==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\cab402\\Lecture 2\\Lecture 2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liamp\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
