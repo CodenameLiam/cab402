@@ -18,8 +18,8 @@ let main argv =
     let r3 = twice twice twice succ 0
     printfn "Twice twice SUCC 0 = %d" r3
 
-    let r4 = twice twice twice add3 0
-    printfn "Twice twice add 3 = %d" r4
+    //let r4 = twice twice twice add3 0
+    //printfn "Twice twice add 3 = %d" r4
 
 
     0
