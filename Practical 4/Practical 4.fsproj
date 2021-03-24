@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <Compile Include="PartA.fs" />
+    <Compile Include="PartB.fs" />
+    <Compile Include="PartC.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
