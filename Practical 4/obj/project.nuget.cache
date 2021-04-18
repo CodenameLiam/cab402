@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sOel3+xaW9vNf+ANUyJH3iRsexG+hOqxEwBPGNFS7H9sxtrgSX7ELBE0R1GKS0LsyhCYSCOa6DMk/d8LPVPl5w==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\cab402\\Practical 4\\Practical 4.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liamp\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
